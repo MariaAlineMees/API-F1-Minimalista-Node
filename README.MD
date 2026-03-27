@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./.assets/blue-saiyan-bg.png" alt="Logo" height="200">
+  <img src="./assets/blue-saiyan-bg.png" alt="Logo" height="200">
   <h1 align="center"><strong>API Minimalista - Fórmula 1</strong></h1>
   <p align="center">
 	  Uma API minimalista com dados de equipes e pilotos da Fórmula 1.<br> Projeto construído durante o curso de Node.js da <b>DIO</b>, utilizando como base as aulas do <b>Felipe Aguiar (Felipão)</b>.
@@ -56,7 +56,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone <sua-url-do-repositorio-aqui>
+$ git clone <https://github.com/MariaAlineMees/API-F1-Minimalista-Node>
 
 # Go into the repository
 $ cd project-formula-1
