@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./.github/assets/blue-saiyan-bg.png" alt="Logo" height="200">
+  <img src="./.assets/blue-saiyan-bg.png" alt="Logo" height="200">
   <h1 align="center"><strong>API Minimalista - Fórmula 1</strong></h1>
   <p align="center">
 	  Uma API minimalista com dados de equipes e pilotos da Fórmula 1.<br> Projeto construído durante o curso de Node.js da <b>DIO</b>, utilizando como base as aulas do <b>Felipe Aguiar (Felipão)</b>.
